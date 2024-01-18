@@ -4,7 +4,8 @@
 Introducing the ultimate Guess Where: a Landscape Matching Game – where your love for nature meets the thrill of a challenge! Immerse yourself in stunning landscapes from around the world and test your knowledge by filling in the missing pieces. Explore, learn, and have fun as you piece together the beauty of our planet in this engaging and visually captivating game. Are you ready to elevate your landscape IQ?
 
 ## Design of Guess Where
-The design of Guess Where is to encourage learning and practice in geospatial understanding depending on the picture displayed. 
+The design of Guess Where is to encourage learning and practice in geospatial understanding depending on the picture displayed.
+![IMG_0259](https://github.com/bentobox1232/start_up/assets/122257461/8fae6802-34bf-4124-b9bc-811898c35142)
 ### Key Features
 - Secure login via HTTPS for privacy
 - Select your preferred answer for decision-making
@@ -16,6 +17,7 @@ The design of Guess Where is to encourage learning and practice in geospatial un
 ### Authentication
   - User-friendly input for seamless account creation and login
   - Display of the user's name post-login for a personalized experience
+
 
 ### Database Data
   - Visualization of application data stored in the database
